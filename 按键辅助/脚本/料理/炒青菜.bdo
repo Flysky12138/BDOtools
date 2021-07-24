@@ -1,0 +1,45 @@
+BDO 20 0 End x1111
+KU F9
+K R 1000
+
+#甜椒x5
+R color(206,158,41)(200,160,33) 100
+FOR 4
+	K 5 50
+END
+K Space 300
+
+#特等/高级辣椒x1
+R color(156,27,23)(226,96,55) 100
+FOR 4
+	K 1 50
+END
+K Space 300
+
+#橄榄油x2
+R color(166,191,199)(157,173,158) 100
+FOR 4
+	K 2 50
+END
+K Space 300
+
+#盐x1
+R color(145,139,123)(166,162,141) 100
+FOR 4
+	K 1 50
+END
+K Space 300
+
+K Esc
+
+KU F10
+K R 300
+L 1058,288 100
+CV "炒青菜" 100
+K Enter 100
+L 1096,335 800
+L 1721,310 300
+L 844,865 100
+K Space 100
+K F 100
+K Space

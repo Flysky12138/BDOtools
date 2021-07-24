@@ -1,0 +1,42 @@
+BDO 1 0 End x111
+KU F9
+K R 1000
+
+#羊肉x5
+R color(183,64,72)(191,82,84) 100
+FOR 3
+	K 5 50
+END
+K Space 300
+#料理饮用水x3
+R color(177,191,190)(133,166,165) 100
+FOR 3
+	K 3 50
+END
+K Space 300
+#荞麦粉x2
+R color(206,182,148)(221,202,172) 100
+FOR 3
+	K 2 50
+END
+K Space 300
+#料理用红酒x2
+R color(206,210,197)(143,144,125) 100
+FOR 3
+	K 2 50
+END
+K Space 300
+
+K Esc
+
+KU F10
+K R 300
+L 1058,288 100
+CV "炖肉" 100
+K Enter 100
+L 1096,335 800
+L 1721,310 300
+L 844,865 100
+K Space 100
+K F 100
+K Space

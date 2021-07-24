@@ -1,0 +1,6 @@
+LauncherResourceType = 2
+bitMode = 1
+webvLanguage = 0
+launcherRetain = 0
+launcherMiniMode = 1
+launcherGpu = 1

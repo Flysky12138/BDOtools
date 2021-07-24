@@ -1,0 +1,28 @@
+BDO 1 0 F10
+OPEN 800
+FOR 14
+	#取箱子
+	K R 300
+	WHILE color(35,35,38)(35,35,38)
+	K 2 300
+	WHILE color(45,45,49)(45,45,49)
+	R color(144,142,144)(132,128,129) 300
+	K 1 100
+	K 5 100
+	K Space 300
+	K Esc 300
+	K Esc 300
+	#卖箱子
+	K Ctrl 300
+	R x,y 300
+	K R 800
+	K 2 800
+	WHILE color(144,142,144)(132,128,129)
+	L 1711,977 300
+	K Space 300
+	K Esc 300
+	K Esc 300
+END
+K R 300
+WHILE color(35,35,38)(35,35,38)
+K 2 300

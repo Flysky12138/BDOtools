@@ -1,0 +1,52 @@
+BDO 20 0 End x1111
+KU F9
+K R 1000
+
+#烤香肠x1
+R color(109,69,45)(66,32,8) 100
+FOR 4
+	K 1 50
+END
+K Space 300
+
+#荞麦粉面团x5
+R color(200,190,165)(144,126,98) 100
+FOR 4
+	K 5 50
+END
+K Space 300
+
+#甜椒x4
+R color(206,158,41)(200,160,33) 100
+FOR 4
+	K 4 50
+END
+K Space 300
+
+#起司x3
+R color(185,124,66)(191,127,68) 100
+FOR 4
+	K 3 50
+END
+K Space 300
+
+#红酱x3
+R color(138,51,22)(183,62,28) 100
+FOR 4
+	K 3 50
+END
+K Space 300
+
+K Esc
+
+KU F10
+K R 300
+L 1058,288 100
+CV "起司焗烤" 100
+K Enter 100
+L 1096,335 800
+L 1721,310 300
+L 844,865 100
+K Space 100
+K F 100
+K Space
