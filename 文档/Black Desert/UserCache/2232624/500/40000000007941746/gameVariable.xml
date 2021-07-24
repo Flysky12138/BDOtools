@@ -1,67 +1,71 @@
 <CheckQuestList Version="1">
-	<CheckedQuest Group="30006" Quest="4" IsOn="true"/>
-	<CheckedQuest Group="30006" Quest="3" IsOn="true"/>
-	<CheckedQuest Group="30006" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="30006" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="790" Quest="12" IsOn="true"/>
 	<CheckedQuest Group="790" Quest="9" IsOn="true"/>
 	<CheckedQuest Group="790" Quest="10" IsOn="true"/>
 	<CheckedQuest Group="790" Quest="11" IsOn="true"/>
-	<CheckedQuest Group="9002" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="9002" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="9002" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="30006" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="30006" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="30006" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="30006" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="9002" Quest="4" IsOn="true"/>
-	<CheckedQuest Group="9006" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="9006" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="9006" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="9002" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="9002" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="9002" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="9006" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="9006" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="9006" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="9006" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="3085" Quest="3" IsOn="true"/>
-	<CheckedQuest Group="3724" Quest="10" IsOn="true"/>
-	<CheckedQuest Group="3724" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="3724" Quest="4" IsOn="true"/>
-	<CheckedQuest Group="3724" Quest="7" IsOn="true"/>
-	<CheckedQuest Group="3724" Quest="13" IsOn="true"/>
 	<CheckedQuest Group="3724" Quest="16" IsOn="true"/>
-	<CheckedQuest Group="836" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="836" Quest="3" IsOn="true"/>
-	<CheckedQuest Group="836" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="13" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="7" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="3724" Quest="10" IsOn="true"/>
 	<CheckedQuest Group="836" Quest="5" IsOn="true"/>
-	<CheckedQuest Group="50033" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="836" Quest="4" IsOn="true"/>
+	<CheckedQuest Group="836" Quest="3" IsOn="true"/>
+	<CheckedQuest Group="836" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50052" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50052" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50033" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50008" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50033" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50008" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50011" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50008" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50011" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50027" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50011" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50027" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50037" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50027" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50037" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50022" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50037" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50022" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50035" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50022" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50035" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50004" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50035" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50004" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50032" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50004" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50032" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50042" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50032" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50042" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50009" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50042" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50009" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50007" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50009" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50007" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50013" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50007" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50013" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50017" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50013" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50017" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50005" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50017" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50005" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50020" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50005" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50020" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50023" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50020" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50023" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50015" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50023" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50028" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50028" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50015" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50015" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50024" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50024" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50006" Quest="2" IsOn="true"/>
@@ -72,6 +76,8 @@
 	<CheckedQuest Group="50034" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50016" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50016" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50050" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50050" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50000" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50000" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50001" Quest="2" IsOn="true"/>
@@ -94,8 +100,6 @@
 	<CheckedQuest Group="50025" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50026" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50026" Quest="1" IsOn="true"/>
-	<CheckedQuest Group="50028" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50028" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50029" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50029" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50030" Quest="2" IsOn="true"/>
@@ -109,13 +113,11 @@
 	<CheckedQuest Group="50039" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50039" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50040" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50040" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50041" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50041" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50043" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50043" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50044" Quest="2" IsOn="true"/>
-	<CheckedQuest Group="50044" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50045" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50045" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50046" Quest="2" IsOn="true"/>
@@ -126,6 +128,8 @@
 	<CheckedQuest Group="50048" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="50049" Quest="2" IsOn="true"/>
 	<CheckedQuest Group="50049" Quest="1" IsOn="true"/>
+	<CheckedQuest Group="50051" Quest="2" IsOn="true"/>
+	<CheckedQuest Group="50051" Quest="1" IsOn="true"/>
 	<CheckedQuest Group="12022" Quest="25" IsOn="true"/>
 </CheckQuestList>
 <QuestSortType Version="1">
@@ -165,7 +169,7 @@
 	<QuickEmpty Key="18" Position="0.000000 0.000000" KeyboardKey="0"/>
 	<QuickEmpty Key="19" Position="0.000000 0.000000" KeyboardKey="0"/>
 </QuickSlotData>
-<ShortcutKey Version="10">
+<ShortcutKey Version="12">
 	<ShortcutKey_Action_Key InputType="MoveFront" Alt="false" IgnoreFuncKey="false" keyCode="87"/>
 	<ShortcutKey_Action_Key InputType="MoveBack" Alt="false" IgnoreFuncKey="false" keyCode="83"/>
 	<ShortcutKey_Action_Key InputType="MoveLeft" Alt="false" IgnoreFuncKey="false" keyCode="65"/>
@@ -335,6 +339,7 @@
 	<ShortcutKey_UI_Key InputType="ShadowArenaLockOn" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
 	<ShortcutKey_UI_Key InputType="ExpirienceWiki" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
 	<ShortcutKey_UI_Key InputType="FamilyInven" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
+	<ShortcutKey_UI_Key InputType="ShadowArenaEnemyInfo" Alt="false" IgnoreFuncKey="false" keyCode="0"/>
 	<ShortcutKey_UI_Pad InputType="MouseCursorOnOff" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="Back" PadSubInputType="NoUse"/>
 	<ShortcutKey_UI_Pad InputType="Help" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
 	<ShortcutKey_UI_Pad InputType="MentalKnowledge" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
@@ -382,6 +387,7 @@
 	<ShortcutKey_UI_Pad InputType="ShadowArenaLockOn" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
 	<ShortcutKey_UI_Pad InputType="ExpirienceWiki" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
 	<ShortcutKey_UI_Pad InputType="FamilyInven" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
+	<ShortcutKey_UI_Pad InputType="ShadowArenaEnemyInfo" PadFunc1="false" PadFunc2="false" IgnoreFuncKey="false" PadInputType="NoUse" PadSubInputType="NoUse"/>
 </ShortcutKey>
 <ChattingMacro Version="2"/>
 <UIData Version="2">
@@ -457,8 +463,9 @@
 	<UIData Index="117" IsShow="false"/>
 	<UIData Index="142" IsShow="false"/>
 	<UIData Index="143" IsShow="true"/>
-	<UIData Index="121" IsShow="true"/>
-	<UIData Index="120" IsShow="true"/>
+	<UIData Index="121" IsShow="false"/>
+	<UIData Index="120" IsShow="false"/>
+	<UIData Index="147" IsShow="false"/>
 	<UIData Index="51" IsShow="false"/>
 	<UIData Index="41" IsShow="false">
 		<Inventory Type="IsSortedInventory" Value="true"/>
@@ -473,6 +480,7 @@
 		<Inventory Type="IsShowSubWeapon" Value="true"/>
 		<Inventory Type="IsShowMainWeapon" Value="true"/>
 		<Inventory Type="IsSortedFamilyInventory" Value="false"/>
+		<Inventory Type="IsSortedFamilyCashInventory" Value="false"/>
 	</UIData>
 	<UIData Index="44" IsShow="false"/>
 </UIData>
@@ -819,7 +827,7 @@
 <GameOptionCustomize Version="2"/>
 <ButtonShortcutsList Version="1"/>
 <FairySettingData Version="3"/>
-<ConsoleQuickMenu Version="5">
+<ConsoleQuickMenu Version="6">
 	<QuickMenuGroupInfo/>
 	<QuickMenuGroupInfo/>
 	<QuickMenuGroupInfo/>
@@ -835,4 +843,6 @@
 <DynamicPanelScale Version="1"/>
 <VehicleSkillCommandLock Version="2"/>
 <SkillPresetMemo Version="2"/>
+<MonsterChaseData Version="1"/>
+<WorkerNameChange Version="1"/>
 

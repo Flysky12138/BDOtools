@@ -16,7 +16,7 @@
 	<ChattingMacro Index="9" MacroNo="9" ChatType="Public" Message=""/>
 </ChattingMacro>
 <UIData Version="2">
-	<UIData Index="32" IsShow="true" WindowIndex="1" IsUsing="true" IsCombinedToMainPanel="false" PendingType="LeftBottom" PosX="0" PosY="440" RelativePosX="0.109375" RelativePosY="0.7763888836" SizeX="420" SizeY="397" FontSize="7667795" Transparency="0.7" LangType="1">
+	<UIData Index="32" IsShow="true" WindowIndex="1" IsUsing="true" IsCombinedToMainPanel="false" PendingType="LeftBottom" PosX="0" PosY="440" RelativePosX="0.109375" RelativePosY="0.7763888836" SizeX="420" SizeY="397" FontSize="7667795" Transparency="0.69898" LangType="1">
 		<ChatType key="Undefined" value="false" colorIndexValue="-1"/>
 		<ChatType key="Notice" value="false" colorIndexValue="-1"/>
 		<ChatType key="World" value="false" colorIndexValue="-1"/>
@@ -47,7 +47,7 @@
 		<ChatSystemType key="ChatSystemType_Market" value="true" colorIndexValue="-1"/>
 		<ChatSystemType key="ChatSystemType_Worker" value="true" colorIndexValue="-1"/>
 		<ChatSystemType key="ChatSystemType_Harvest" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Enchant" value="true" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Enchant" value="false" colorIndexValue="-1"/>
 		<ChatFontSizeType key="ChatFontSizeType_Normal"/>
 		<ChatIsShowTimeString value="false"/>
 		<UseEmoticonAutoPlay value="true"/>
@@ -88,38 +88,38 @@
 		<ChatIsShowTimeString value="true"/>
 		<UseEmoticonAutoPlay value="true"/>
 	</UIData>
-	<UIData Index="32" IsShow="false" WindowIndex="3" IsUsing="true" IsCombinedToMainPanel="true" PendingType="LeftBottom" PosX="0" PosY="265" RelativePosX="0.109375" RelativePosY="0.8574073911" SizeX="420" SizeY="222" FontSize="0" Transparency="0.7" LangType="1">
+	<UIData Index="32" IsShow="false" WindowIndex="3" IsUsing="false" IsCombinedToMainPanel="true" PendingType="LeftBottom" PosX="0" PosY="265" RelativePosX="0.109375" RelativePosY="0.8574073911" SizeX="420" SizeY="222" FontSize="0" Transparency="0.7" LangType="1">
 		<ChatType key="Undefined" value="false" colorIndexValue="-1"/>
 		<ChatType key="Notice" value="false" colorIndexValue="-1"/>
 		<ChatType key="World" value="false" colorIndexValue="-1"/>
 		<ChatType key="Public" value="false" colorIndexValue="-1"/>
-		<ChatType key="Private" value="true" colorIndexValue="-1"/>
+		<ChatType key="Private" value="false" colorIndexValue="-1"/>
 		<ChatType key="System" value="false" colorIndexValue="-1"/>
-		<ChatType key="Party" value="true" colorIndexValue="-1"/>
-		<ChatType key="Guild" value="true" colorIndexValue="-1"/>
+		<ChatType key="Party" value="false" colorIndexValue="-1"/>
+		<ChatType key="Guild" value="false" colorIndexValue="-1"/>
 		<ChatType key="Client" value="false" colorIndexValue="-1"/>
-		<ChatType key="Alliance" value="true" colorIndexValue="-1"/>
-		<ChatType key="Friend" value="true" colorIndexValue="-1"/>
+		<ChatType key="Alliance" value="false" colorIndexValue="-1"/>
+		<ChatType key="Friend" value="false" colorIndexValue="-1"/>
 		<ChatType key="GameInfo3" value="false" colorIndexValue="-1"/>
 		<ChatType key="WorldWithItem" value="false" colorIndexValue="-1"/>
 		<ChatType key="Battle" value="false" colorIndexValue="-1"/>
-		<ChatType key="LocalWar" value="true" colorIndexValue="-1"/>
+		<ChatType key="LocalWar" value="false" colorIndexValue="-1"/>
 		<ChatType key="RolePlay" value="false" colorIndexValue="-1"/>
-		<ChatType key="NoticeOnlyTop" value="true" colorIndexValue="-1"/>
-		<ChatType key="Arsha" value="true" colorIndexValue="-1"/>
+		<ChatType key="NoticeOnlyTop" value="false" colorIndexValue="-1"/>
+		<ChatType key="Arsha" value="false" colorIndexValue="-1"/>
 		<ChatType key="Team" value="false" colorIndexValue="-1"/>
 		<ChatType key="Channel" value="false" colorIndexValue="-1"/>
-		<ChatType key="AppGuild" value="true" colorIndexValue="-1"/>
+		<ChatType key="AppGuild" value="false" colorIndexValue="-1"/>
 		<ChatType key="DeadMessage" value="false" colorIndexValue="-1"/>
 		<ChatType key="GM" value="false" colorIndexValue="-1"/>
 		<ChatType key="GuildManager" value="false" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Undefined" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_PrivateItem" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_PartyItem" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Market" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Worker" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Harvest" value="true" colorIndexValue="-1"/>
-		<ChatSystemType key="ChatSystemType_Enchant" value="true" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Undefined" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_PrivateItem" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_PartyItem" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Market" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Worker" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Harvest" value="false" colorIndexValue="-1"/>
+		<ChatSystemType key="ChatSystemType_Enchant" value="false" colorIndexValue="-1"/>
 		<ChatFontSizeType key="ChatFontSizeType_Normal"/>
 		<ChatIsShowTimeString value="true"/>
 		<UseEmoticonAutoPlay value="true"/>
@@ -184,7 +184,7 @@
 		<ChatType key="AppGuild" value="false" colorIndexValue="-1"/>
 		<ChatType key="DeadMessage" value="false" colorIndexValue="-1"/>
 		<ChatType key="GM" value="false" colorIndexValue="-1"/>
-		<ChatType key="GuildManager" value="false" colorIndexValue="-1"/>
+		<ChatType key="GuildManager" value="true" colorIndexValue="-1"/>
 		<ChatSystemType key="ChatSystemType_Undefined" value="false" colorIndexValue="-1"/>
 		<ChatSystemType key="ChatSystemType_PrivateItem" value="true" colorIndexValue="-1"/>
 		<ChatSystemType key="ChatSystemType_PartyItem" value="true" colorIndexValue="-1"/>
@@ -212,7 +212,7 @@
 	<UIData Index="138" IsShow="false"/>
 	<UIData Index="84" IsShow="true" PendingType="LeftBottom" PosX="747" PosY="114" RelativePosX="0.4020833373" RelativePosY="0.9175925851"/>
 	<UIData Index="89" IsShow="true" PendingType="LeftBottom" PosX="793" PosY="128" RelativePosX="0.428124994" RelativePosY="0.9083333611"/>
-	<UIData Index="85" IsShow="true" PendingType="RightBottom" PosX="789" PosY="115" RelativePosX="0.6013020873" RelativePosY="0.9152777791"/>
+	<UIData Index="85" IsShow="false" PendingType="RightBottom" PosX="789" PosY="115" RelativePosX="0.6013020873" RelativePosY="0.9152777791"/>
 	<UIData Index="115" IsShow="false" PendingType="LeftTop" PosX="869" PosY="6" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="141" IsShow="true" PendingType="RightTop" PosX="827" PosY="0" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="82" IsShow="false" PendingType="RightTop" PosX="205" PosY="326" RelativePosX="0.9361979365" RelativePosY="0.3277777731"/>
@@ -257,7 +257,7 @@
 	<UIData Index="15" IsShow="false" PendingType="LeftTop" PosX="0" PosY="151" RelativePosX="0.0703125" RelativePosY="0.1768518537"/>
 	<UIData Index="127" IsShow="false" PendingType="LeftTop" PosX="0" PosY="152" RelativePosX="0.04869791493" RelativePosY="0.1611111164"/>
 	<UIData Index="21" IsShow="true" PendingType="RightTop" PosX="321" PosY="420" RelativePosX="0.9122396111" RelativePosY="0.564814806" SizeX="305" SizeY="379"/>
-	<UIData Index="113" IsShow="true" PendingType="RightTop" PosX="321" PosY="311" RelativePosX="0.9122396111" RelativePosY="0.3245370388" SizeX="305" SizeY="79"/>
+	<UIData Index="113" IsShow="true" PendingType="RightTop" PosX="321" PosY="310" RelativePosX="0.9122396111" RelativePosY="0.3245370388" SizeX="305" SizeY="80"/>
 	<UIData Index="116" IsShow="false" PendingType="RightBottom" PosX="50" PosY="150" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="118" IsShow="false" PendingType="RightBottom" PosX="110" PosY="42" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="117" IsShow="false" PendingType="RightBottom" PosX="50" PosY="150" RelativePosX="0" RelativePosY="0"/>
@@ -265,6 +265,7 @@
 	<UIData Index="143" IsShow="true" PendingType="LeftBottom" PosX="946" PosY="490" RelativePosX="0.578125" RelativePosY="0.592592597"/>
 	<UIData Index="121" IsShow="false" PendingType="LeftBottom" PosX="863" PosY="173" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="120" IsShow="false" PendingType="LeftBottom" PosX="863" PosY="190" RelativePosX="0" RelativePosY="0"/>
+	<UIData Index="147" IsShow="false" PendingType="RightTop" PosX="400" PosY="220" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="51" IsShow="false">
 		<WorldMapFilter Index="0" IsOn="true"/>
 		<WorldMapFilter Index="1" IsOn="true"/>
@@ -279,7 +280,6 @@
 		<WorldMapFilter Index="10" IsOn="true"/>
 		<WorldMapFilter Index="11" IsOn="false"/>
 	</UIData>
-	<UIData Index="147" IsShow="false" PendingType="RightTop" PosX="400" PosY="220" RelativePosX="0" RelativePosY="0"/>
 	<UIData Index="41" IsShow="false"/>
 	<UIData Index="44" IsShow="false">
 		<WareHouse Type="IsSortedWareHouse" Value="true"/>
@@ -337,7 +337,7 @@
 	<GameOption Type="WorldMapCameraPitchType" DataValue="2"/>
 	<GameOption Type="CashAleart" DataValue="false"/>
 	<GameOption Type="UIFontSizeType" DataValue="0"/>
-	<GameOption Type="AudioResourceType" DataValue="0"/>
+	<GameOption Type="AudioResourceType" DataValue="2"/>
 	<GameOption Type="NearestQuestMonster" DataValue="true"/>
 	<GameOption Type="ExchangeRefuse" DataValue="false"/>
 	<GameOption Type="effectFrameEffectOptimization" DataValue="7.57"/>
@@ -552,6 +552,7 @@
 	<Time Index="76" year="2021" month="7" day="24" hour="0" minute="0" second="0" StorageType="1"/>
 	<Time Index="111" year="2021" month="1" day="11" hour="0" minute="0" second="0" StorageType="1"/>
 	<Time Index="118" year="2021" month="2" day="6" hour="0" minute="0" second="0" StorageType="1"/>
+	<Time Index="163" year="2021" month="7" day="24" hour="0" minute="0" second="0" StorageType="1"/>
 </UIValue>
 <VoiceChatInfo Version="2">
 	<VoiceChatOption GuildNo="0" IsVoiceMicOnOff="false" IsVoiceSpeakerOnOff="false" IsVoicePushToTalk="false" VoiceMicVolume="50" VoiceMicSensitivity="50" VoiceSpeakerVolume="100" VoiceMicAdjustment="1"/>
@@ -13870,70 +13871,70 @@
 	<MonsterChaseData Key="0"/>
 </MonsterChaseData>
 <WorkerNameChange Version="1">
-	<WorkerNameChange workerNo="10000000000791925" name=""/>
-	<WorkerNameChange workerNo="30000000000475737" name=""/>
-	<WorkerNameChange workerNo="40000000000127300" name=""/>
+	<WorkerNameChange workerNo="40000000004480125" name=""/>
 	<WorkerNameChange workerNo="40000000000483837" name=""/>
+	<WorkerNameChange workerNo="40000000004152053" name=""/>
+	<WorkerNameChange workerNo="10000000000791925" name=""/>
+	<WorkerNameChange workerNo="40000000007069849" name=""/>
+	<WorkerNameChange workerNo="30000000000475737" name=""/>
+	<WorkerNameChange workerNo="40000000007497284" name=""/>
+	<WorkerNameChange workerNo="40000000000127300" name=""/>
+	<WorkerNameChange workerNo="40000000007274507" name=""/>
+	<WorkerNameChange workerNo="40000000004771403" name=""/>
 	<WorkerNameChange workerNo="40000000000789259" name=""/>
+	<WorkerNameChange workerNo="40000000009103591" name=""/>
 	<WorkerNameChange workerNo="40000000000859623" name=""/>
+	<WorkerNameChange workerNo="40000000006142950" name=""/>
 	<WorkerNameChange workerNo="40000000001037926" name=""/>
 	<WorkerNameChange workerNo="40000000001379920" name=""/>
+	<WorkerNameChange workerNo="40000000009117984" name=""/>
+	<WorkerNameChange workerNo="40000000006525024" name=""/>
 	<WorkerNameChange workerNo="40000000001445792" name=""/>
 	<WorkerNameChange workerNo="40000000001973065" name=""/>
 	<WorkerNameChange workerNo="40000000002480097" name=""/>
+	<WorkerNameChange workerNo="40000000008851191" name=""/>
 	<WorkerNameChange workerNo="40000000002640567" name=""/>
+	<WorkerNameChange workerNo="40000000007696654" name=""/>
+	<WorkerNameChange workerNo="40000000006898190" name=""/>
 	<WorkerNameChange workerNo="40000000002640590" name=""/>
-	<WorkerNameChange workerNo="40000000002820749" name=""/>
-	<WorkerNameChange workerNo="40000000003841164" name=""/>
-	<WorkerNameChange workerNo="40000000004152053" name=""/>
-	<WorkerNameChange workerNo="40000000004354466" name=""/>
-	<WorkerNameChange workerNo="40000000004480125" name=""/>
 	<WorkerNameChange workerNo="40000000004614989" name=""/>
-	<WorkerNameChange workerNo="40000000004771403" name=""/>
+	<WorkerNameChange workerNo="40000000002820749" name=""/>
+	<WorkerNameChange workerNo="40000000007258508" name=""/>
+	<WorkerNameChange workerNo="40000000003841164" name=""/>
+	<WorkerNameChange workerNo="40000000007232994" name=""/>
+	<WorkerNameChange workerNo="40000000004354466" name=""/>
 	<WorkerNameChange workerNo="40000000005185273" name=""/>
-	<WorkerNameChange workerNo="40000000006142950" name=""/>
+	<WorkerNameChange workerNo="40000000007265807" name=""/>
 	<WorkerNameChange workerNo="40000000006287951" name=""/>
 	<WorkerNameChange workerNo="40000000006467432" name=""/>
-	<WorkerNameChange workerNo="40000000006525024" name=""/>
 	<WorkerNameChange workerNo="40000000006870379" name=""/>
-	<WorkerNameChange workerNo="40000000006898190" name=""/>
+	<WorkerNameChange workerNo="40000000007871368" name=""/>
+	<WorkerNameChange workerNo="40000000007274504" name=""/>
 	<WorkerNameChange workerNo="40000000006925960" name=""/>
+	<WorkerNameChange workerNo="40000000007638445" name=""/>
 	<WorkerNameChange workerNo="40000000006972141" name=""/>
-	<WorkerNameChange workerNo="40000000007069849" name=""/>
-	<WorkerNameChange workerNo="40000000007232994" name=""/>
 	<WorkerNameChange workerNo="40000000007245151" name=""/>
-	<WorkerNameChange workerNo="40000000007258508" name=""/>
-	<WorkerNameChange workerNo="40000000007265807" name=""/>
 	<WorkerNameChange workerNo="40000000007267118" name=""/>
 	<WorkerNameChange workerNo="40000000007267119" name=""/>
+	<WorkerNameChange workerNo="40000000008709874" name=""/>
 	<WorkerNameChange workerNo="40000000007270322" name=""/>
-	<WorkerNameChange workerNo="40000000007274504" name=""/>
-	<WorkerNameChange workerNo="40000000007274507" name=""/>
+	<WorkerNameChange workerNo="40000000007880048" name=""/>
 	<WorkerNameChange workerNo="40000000007280048" name=""/>
+	<WorkerNameChange workerNo="40000000007517347" name=""/>
 	<WorkerNameChange workerNo="40000000007286499" name=""/>
 	<WorkerNameChange workerNo="40000000007307070" name=""/>
-	<WorkerNameChange workerNo="40000000007497284" name=""/>
-	<WorkerNameChange workerNo="40000000007517347" name=""/>
-	<WorkerNameChange workerNo="40000000007638445" name=""/>
-	<WorkerNameChange workerNo="40000000007696654" name=""/>
 	<WorkerNameChange workerNo="40000000007783555" name=""/>
-	<WorkerNameChange workerNo="40000000007871368" name=""/>
-	<WorkerNameChange workerNo="40000000007880048" name=""/>
+	<WorkerNameChange workerNo="40000000008709875" name=""/>
 	<WorkerNameChange workerNo="40000000007888947" name=""/>
 	<WorkerNameChange workerNo="40000000007958186" name=""/>
-	<WorkerNameChange workerNo="40000000008569004" name=""/>
 	<WorkerNameChange workerNo="40000000008709868" name=""/>
-	<WorkerNameChange workerNo="40000000008709874" name=""/>
-	<WorkerNameChange workerNo="40000000008709875" name=""/>
-	<WorkerNameChange workerNo="40000000008851191" name=""/>
+	<WorkerNameChange workerNo="40000000008569004" name=""/>
 	<WorkerNameChange workerNo="40000000008869845" name=""/>
 	<WorkerNameChange workerNo="40000000008870756" name=""/>
 	<WorkerNameChange workerNo="40000000009018078" name=""/>
 	<WorkerNameChange workerNo="40000000009103589" name=""/>
-	<WorkerNameChange workerNo="40000000009103591" name=""/>
 	<WorkerNameChange workerNo="40000000009117946" name=""/>
 	<WorkerNameChange workerNo="40000000009117948" name=""/>
-	<WorkerNameChange workerNo="40000000009117984" name=""/>
 	<WorkerNameChange workerNo="40000000009117985" name=""/>
 	<WorkerNameChange workerNo="40000000009118107" name=""/>
 	<WorkerNameChange workerNo="40000000009118108" name=""/>

@@ -1,1 +1,1 @@
-pyinstaller -F -i BlackDesert.ico 汉化下载.py
+pyinstaller -F -i ./BlackDesert.ico ./汉化下载.py
