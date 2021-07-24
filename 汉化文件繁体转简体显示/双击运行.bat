@@ -1,4 +1,5 @@
 @echo off
+set /p="时间较长，耐心等待 "<nul
 set /p="1、开始 解密 "<nul
 "bin/BDO_decrypt" languagedata_en.loc languagedata_tw.txt
 "bin/BDO_decrypt" languagedata_en.loc.bak languagedata_en.txt
