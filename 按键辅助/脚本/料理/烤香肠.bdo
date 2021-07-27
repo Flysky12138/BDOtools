@@ -2,6 +2,18 @@ BDO 20 0 End x1111
 KU F9
 K R 1000
 
+#放产物
+R 1700,316 300
+IF color(54,54,59)(54,54,59)
+	K F 300
+	K Space 800
+FI
+R 1755,316 300
+IF color(54,54,59)(54,54,59)
+	K F 300
+	K Space 800
+FI
+
 #羊肉x6
 R color(183,64,72)(191,82,84) 100
 FOR 4
@@ -30,6 +42,7 @@ FOR 4
 END
 K Space 300
 
+K Esc
 K Esc
 
 KU F10

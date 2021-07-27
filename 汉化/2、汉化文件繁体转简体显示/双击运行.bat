@@ -24,7 +24,8 @@ set /p="4、开始 转码 "<nul
 del languagedata_tw_mx.txt
 echo.
 set /p="5、开始 加密 "<nul
-"bin/BDO_encrypt.exe" languagedata_tw_utf16.txt %USERPROFILE%/Desktop/languagedata_en.loc
+"bin/BDO_encrypt.exe" languagedata_tw_utf16.txt languagedata_en.loc
+copy /y languagedata_en.loc "%USERPROFILE%/Desktop/languagedata_en.loc"
 del languagedata_tw_utf16.txt
 echo.
 echo.
