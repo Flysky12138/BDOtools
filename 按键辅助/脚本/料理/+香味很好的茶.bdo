@@ -1,4 +1,4 @@
-BDO 1 0 End x111
+BDO 1 0 F10 x111
 KU F9
 K R 1000
 
@@ -29,7 +29,7 @@ K Space 300
 
 K Esc
 
-KU F10
+KU F9
 K R 300
 L 1058,288 100
 CV "香味很好的茶" 100

@@ -1,6 +1,18 @@
-BDO 20 0 End x1111
+BDO 20 0 F10 x1111
 KU F9
 K R 1000
+
+#放产物
+R 1700,316 300
+IF color(54,54,59)(54,54,59)
+	K F 300
+	K Space 300
+FI
+R 1755,316 300
+IF color(54,54,59)(54,54,59)
+	K F 300
+	K Space 800
+FI
 
 #甜椒x5
 R color(206,158,41)(200,160,33) 100
@@ -30,9 +42,10 @@ FOR 4
 END
 K Space 300
 
+K Esc 100
 K Esc
 
-KU F10
+KU F9
 K R 300
 L 1058,288 100
 CV "炒青菜" 100

@@ -1,4 +1,4 @@
-BDO 20 0 End x11110
+BDO 20 0 F10 x11110
 KU F9
 K R 1000
 
@@ -34,9 +34,10 @@ END
 K 0 50
 K Space 300
 
+K Esc 100
 K Esc
 
-KU F10
+KU 9
 K R 300
 L 1058,288 100
 CV "红酱" 100

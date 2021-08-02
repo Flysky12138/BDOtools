@@ -1,4 +1,4 @@
-BDO 20 0 End x1111
+BDO 20 0 F10 x1111
 KU F9
 K R 1000
 
@@ -37,9 +37,10 @@ FOR 4
 END
 K Space 300
 
+K Esc 100
 K Esc
 
-KU F10
+KU F9
 K R 300
 L 1058,288 100
 CV "起司焗烤" 100
