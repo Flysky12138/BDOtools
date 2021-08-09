@@ -1,0 +1,1 @@
+copy /y "%USERPROFILE%\desktop\languagedata_en.loc" "D:\Steam\steamapps\common\Black Desert Online\ads\languagedata_en.loc"
