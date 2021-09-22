@@ -1,30 +1,32 @@
 BDO 1000 4800 F10
-OPEN 800
+OPEN
+#截图
+SC "C:\Users\27972\Desktop\游戏截图"
 #喝能量水
-K 4 800
+K 4
 #安置帐篷
-K2 Alt M 10 800
-L 632,484 800
-K Space 800
+K2 Alt M
+L 632,484
+K Space
 #修装备
-K2 Alt N 10 800
-L 877,1039 800
-K Space 800
-K Esc 800
+K2 Alt N
+L 877,1039
+K Space
+K Esc
 #买别墅回体力BUFF
-L 546,644 800
-L 952,501 800
-K Space 800
-K Esc 800
+L 546,644
+L 952,501
+K Space
+K Esc
 #扔垃圾
-#W 1859,337 3 800
+#W 1859,337 3
 IF color(66,58,53)(62,49,38) 1845,805
-	M color(66,58,53)(62,49,38) 1845,805 800
-	K F 800
-	K Space 800
-	K Space 800
+	D color(66,58,53)(62,49,38) 1845,805
+	K F
+	K Space
+	K Space
 FI
 #回收帐篷
-L 713,644 800
-K Space 800
+L 713,644
+K Space
 CLOSE

@@ -1,0 +1,59 @@
+BDO 10 380 F10
+OPEN
+M -500
+K R 1000
+
+#放产物 x1111
+R 1700,316
+IF color(54,54,59)(54,54,59)
+	K F 100
+	K Space
+FI
+R 1755,316
+IF color(54,54,59)(54,54,59)
+	K F 100
+	K Space
+FI
+
+#谷物x5
+R x,y 100
+FOR 4
+	K 5 50
+END
+K Space
+#料理饮用水x6
+R color(177,191,190)(133,166,165) 100
+FOR 4
+	K 6 50
+END
+K Space
+#发酵剂x2
+R color(220,192,155)(231,197,162) 100
+FOR 4
+	K 2 50
+END
+K Space
+#砂糖x1
+R color(166,126,104)(170,129,100) 100
+FOR 4
+	K 1 50
+END
+K Space
+
+K Esc 100
+K Esc
+
+#开始料理
+M 500
+K R 300
+L 1053,288 100
+T "啤酒" 300
+K Enter 300
+L 1096,335
+WHILE color(67,66,74)(60,58,66)
+L 1721,310 300
+L 844,865 100
+K Space 100
+K F 100
+K Space 300
+CLOSE

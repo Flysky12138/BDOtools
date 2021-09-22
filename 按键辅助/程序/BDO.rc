@@ -1,6 +1,6 @@
 // Microsoft Visual C++ generated resource script.
 //
-#include "resource.h"
+#include "resource1.h"
 
 #define APSTUDIO_READONLY_SYMBOLS
 /////////////////////////////////////////////////////////////////////////////
@@ -52,7 +52,7 @@ END
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDI_ICON1               ICON                    "E:\Game\Black Desert\BDO-AFK\BlackDesert.ico"
+IDI_ICON1               ICON                    "C:/Users/27972/Desktop/BDOtools/°´¼ü¸¨Öú/³ÌÐò/BlackDesert.ico"
 
 
 /////////////////////////////////////////////////////////////////////////////
@@ -80,9 +80,10 @@ BEGIN
             VALUE "FileDescription", "BDO"
             VALUE "FileVersion", "1.0.0.1"
             VALUE "InternalName", "BDO.exe"
-            VALUE "LegalCopyright", "Flysky - Family name in game"
+            VALUE "LegalCopyright", "Flysky"
             VALUE "OriginalFilename", "BDO.exe"
             VALUE "ProductName", "BDO"
+            VALUE "ProductVersion", "1.0.0.1"
         END
     END
     BLOCK "VarFileInfo"

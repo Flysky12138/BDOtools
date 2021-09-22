@@ -3,3 +3,4 @@ E:\游戏\黑色沙漠\脚本\BDO\x64\Release\BDO.exe
 E:\游戏\黑色沙漠\脚本\x64\Release\BDO.exe
 E:\Game\黑色沙漠\脚本\x64\Release\BDO.exe
 E:\Game\Black Desert\BDO-AFK\x64\Release\BDO.exe
+C:\Users\27972\Desktop\BDOtools\按键辅助\程序\x64\Release\BDO.exe

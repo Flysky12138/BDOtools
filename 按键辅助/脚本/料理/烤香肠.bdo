@@ -1,56 +1,59 @@
-BDO 20 0 F10 x1111
-KU F9
+BDO 10 380 F10
+OPEN
+M -500
 K R 1000
 
-#Êîæ‰∫ßÁâ©
-R 1700,316 300
+#∑≈≤˙ŒÔ x1111
+R 1700,316
 IF color(54,54,59)(54,54,59)
-	K F 300
-	K Space 300
+	K F 100
+	K Space
 FI
-R 1755,316 300
+R 1755,316
 IF color(54,54,59)(54,54,59)
-	K F 300
-	K Space 800
+	K F 100
+	K Space
 FI
 
-#ÁæäËÇâx6
+#—Ú»‚x6
 R color(183,64,72)(191,82,84) 100
 FOR 4
 	K 6 50
 END
-K Space 300
-#Ê¥ãËë±x1
+K Space
+#—Û¥–x1
 R color(254,219,189)(231,173,131) 100
 FOR 4
 	K 1 50
 END
-K Space 300
-#Áõêx2
+K Space
+#—Œx2
 R color(145,139,123)(166,162,141) 100
 FOR 4
 	K 2 50
 END
-K Space 300
-#È´òÁ∫ßËÉ°Ê§íx1
+K Space
+#∏ﬂº∂∫˙Ω∑x1
 R color(110,88,79)(37,31,27) 100
 FOR 4
 	K 1 50
 END
-K Space 300
+K Space
 
 K Esc 100
 K Esc
 
-#ÂºÄÂßãÊñôÁêÜ
-KU F9
+#ø™ º¡œ¿Ì
+M 500
 K R 300
-L 1000,246 100
-W 1123,656 2 300
-L 1096,335 800
+L 1053,288 100
+T "øæœ„≥¶" 300
+K Enter 300
+L 1096,335
 WHILE color(67,66,74)(60,58,66)
 L 1721,310 300
 L 844,865 100
 K Space 100
 K F 100
-K Space
+K Space 300
+CLOSE
